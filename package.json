@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/HartManx1/MH-site/issues"
   },
-  "homepage": "http://.HartManx1.github.com/MH-site",
+  "homepage": "http://HartManx1.github.com/MH-site",
   "devDependencies": {
     "autoprefixer": "^9.6.1",
     "bootstrap": "^3.4.1",

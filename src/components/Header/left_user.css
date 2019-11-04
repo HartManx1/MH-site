@@ -1,11 +1,12 @@
 h1 {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 .web_dev {
     border: 2px solid rgb(64, 133, 160);
     border-radius: 1rem;
-    padding: 3px 3px;
+    padding: 6px 6px;
+    font-size: 16px;
 }
 
 .avatar {
@@ -13,3 +14,21 @@ h1 {
     width: 35%;
     border-radius: 50%;
 }
+
+.location {
+    margin-top: 40px;
+    font-size: 28px;
+}
+
+.fab, .fas {
+    padding-right: 15px;
+}
+
+.fab:hover, .fas:hover {
+    color: rgb(64, 133, 160);
+}
+
+.linkedin {
+    padding: 0;
+}
+

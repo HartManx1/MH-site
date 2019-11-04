@@ -5,6 +5,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { MainLayout } from "./components/MainLayout";
 import { Root } from "./components/Root";
 import { Home } from "./components/Home";
+import { Certificate } from "./components/Certificate";
 import { NoMatch } from "./components/NoMatch";
 
 class App extends React.Component {
@@ -15,6 +16,7 @@ class App extends React.Component {
           <Switch>
             <Route exact path={"/"} component={Root} />
             <Route exact path={"/home"} component={Home} />
+            <Route exact path={"/certificate"} component={Certificate} />
             <Route component={NoMatch} />
           </Switch>
         </MainLayout>
