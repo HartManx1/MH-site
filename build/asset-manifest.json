@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/MH-site/static/css/main.60563658.chunk.css",
-    "main.js": "/MH-site/static/js/main.89277f17.chunk.js",
-    "main.js.map": "/MH-site/static/js/main.89277f17.chunk.js.map",
+    "main.css": "/MH-site/static/css/main.501df9a4.chunk.css",
+    "main.js": "/MH-site/static/js/main.e8afe516.chunk.js",
+    "main.js.map": "/MH-site/static/js/main.e8afe516.chunk.js.map",
     "runtime-main.js": "/MH-site/static/js/runtime-main.b7fd0917.js",
     "runtime-main.js.map": "/MH-site/static/js/runtime-main.b7fd0917.js.map",
-    "static/js/2.a3a19cf4.chunk.js": "/MH-site/static/js/2.a3a19cf4.chunk.js",
-    "static/js/2.a3a19cf4.chunk.js.map": "/MH-site/static/js/2.a3a19cf4.chunk.js.map",
+    "static/js/2.20420a31.chunk.js": "/MH-site/static/js/2.20420a31.chunk.js",
+    "static/js/2.20420a31.chunk.js.map": "/MH-site/static/js/2.20420a31.chunk.js.map",
     "index.html": "/MH-site/index.html",
-    "precache-manifest.8a04968da7ce31c50d664bc154efb599.js": "/MH-site/precache-manifest.8a04968da7ce31c50d664bc154efb599.js",
+    "precache-manifest.530428ff2b071227e7da648890102f2c.js": "/MH-site/precache-manifest.530428ff2b071227e7da648890102f2c.js",
     "service-worker.js": "/MH-site/service-worker.js",
-    "static/css/main.60563658.chunk.css.map": "/MH-site/static/css/main.60563658.chunk.css.map",
-    "static/media/my_img_site.jpg": "/MH-site/static/media/my_img_site.d717f1b2.jpg"
+    "static/css/main.501df9a4.chunk.css.map": "/MH-site/static/css/main.501df9a4.chunk.css.map",
+    "static/media/avatar.jpg": "/MH-site/static/media/avatar.8e197351.jpg",
+    "static/media/certificate_kodilla2019.jpg": "/MH-site/static/media/certificate_kodilla2019.30bd974d.jpg"
   }
 }
