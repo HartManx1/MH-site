@@ -4,7 +4,7 @@ import "./Root.css";
 
 export class Root extends React.Component {
   render() {
-    return <div class=" col-6 example about_sec">
+    return <div class=" col-8 example about_sec">
     <div class="services">
       <h1>About me:</h1>
       <div class="cen">

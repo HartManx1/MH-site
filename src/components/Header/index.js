@@ -14,7 +14,7 @@ export const Header = props => {
 
     <div class="row">
       <nav>
-        <div class="col-4 example example1">
+        <div class="col-3 example example1">
           <img src={avatar} alt="avatar image" class="avatar" />
           <h1>Martin Hartman</h1>
           <a class="web_dev">Junior Web Developer</a>
@@ -30,7 +30,7 @@ export const Header = props => {
           </div>
 
         </div>
-        <div class="col-6 example example2">
+        <div class="col-8 example example2">
           <NavLink exact to="/" activeClassName="active">
             ABOUT ME
         </NavLink>

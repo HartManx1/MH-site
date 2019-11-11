@@ -1,0 +1,42 @@
+.portfolio {
+  display: inline-block;
+}
+
+.discription {
+  font-size: 13px;
+}
+
+.discription_dis {
+  float: left;
+}
+
+.discription_color {
+  color: rgba(21, 130, 196, 1);
+}
+
+.project_img {
+  border-radius: 1rem;
+}
+
+h2 {
+  margin: 13px;
+}
+
+.h2_link {
+  color: rgba(21, 130, 196, 1);
+}
+
+.a_floor {
+  color: rgba(78, 199, 207, 1);
+}
+
+li {
+  list-style-type: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.portfolio_marg,
+.discription_marg {
+  margin-top: 50px;
+}
