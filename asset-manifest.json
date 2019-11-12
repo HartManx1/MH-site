@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/MH-site/static/css/main.501df9a4.chunk.css",
-    "main.js": "/MH-site/static/js/main.e8afe516.chunk.js",
-    "main.js.map": "/MH-site/static/js/main.e8afe516.chunk.js.map",
+    "main.css": "/MH-site/static/css/main.672f0bf9.chunk.css",
+    "main.js": "/MH-site/static/js/main.35550178.chunk.js",
+    "main.js.map": "/MH-site/static/js/main.35550178.chunk.js.map",
     "runtime-main.js": "/MH-site/static/js/runtime-main.b7fd0917.js",
     "runtime-main.js.map": "/MH-site/static/js/runtime-main.b7fd0917.js.map",
-    "static/js/2.20420a31.chunk.js": "/MH-site/static/js/2.20420a31.chunk.js",
-    "static/js/2.20420a31.chunk.js.map": "/MH-site/static/js/2.20420a31.chunk.js.map",
+    "static/js/2.a0705523.chunk.js": "/MH-site/static/js/2.a0705523.chunk.js",
+    "static/js/2.a0705523.chunk.js.map": "/MH-site/static/js/2.a0705523.chunk.js.map",
     "index.html": "/MH-site/index.html",
-    "precache-manifest.530428ff2b071227e7da648890102f2c.js": "/MH-site/precache-manifest.530428ff2b071227e7da648890102f2c.js",
+    "precache-manifest.4a861af299ebbd3223a659529b3c4704.js": "/MH-site/precache-manifest.4a861af299ebbd3223a659529b3c4704.js",
     "service-worker.js": "/MH-site/service-worker.js",
-    "static/css/main.501df9a4.chunk.css.map": "/MH-site/static/css/main.501df9a4.chunk.css.map",
+    "static/css/main.672f0bf9.chunk.css.map": "/MH-site/static/css/main.672f0bf9.chunk.css.map",
+    "static/media/CSS.png": "/MH-site/static/media/CSS.9896130d.png",
+    "static/media/ExpressJS.png": "/MH-site/static/media/ExpressJS.8587dd06.png",
+    "static/media/NODE.png": "/MH-site/static/media/NODE.270f55ff.png",
+    "static/media/SASS.png": "/MH-site/static/media/SASS.2da9a47a.png",
     "static/media/avatar.jpg": "/MH-site/static/media/avatar.8e197351.jpg",
-    "static/media/certificate_kodilla2019.jpg": "/MH-site/static/media/certificate_kodilla2019.30bd974d.jpg"
+    "static/media/bootstrap.png": "/MH-site/static/media/bootstrap.eaed0693.png",
+    "static/media/certificate_kodilla2019.jpg": "/MH-site/static/media/certificate_kodilla2019.30bd974d.jpg",
+    "static/media/jQuery.jpg": "/MH-site/static/media/jQuery.098497ae.jpg",
+    "static/media/project1.PNG": "/MH-site/static/media/project1.381cfb13.PNG",
+    "static/media/project2.PNG": "/MH-site/static/media/project2.24f16474.PNG",
+    "static/media/project3.PNG": "/MH-site/static/media/project3.0f597795.PNG",
+    "static/media/project4.PNG": "/MH-site/static/media/project4.87a262e8.PNG",
+    "static/media/project5.PNG": "/MH-site/static/media/project5.77586bab.PNG",
+    "static/media/project6.PNG": "/MH-site/static/media/project6.97d331e8.PNG"
   }
 }
