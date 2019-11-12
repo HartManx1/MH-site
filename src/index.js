@@ -6,6 +6,7 @@ import { MainLayout } from "./components/MainLayout";
 import { Root } from "./components/Root";
 import { Home } from "./components/Home";
 import { Certificate } from "./components/Certificate";
+import { Technologies } from "./components/Technologies";
 import { NoMatch } from "./components/NoMatch";
 
 class App extends React.Component {
@@ -17,6 +18,7 @@ class App extends React.Component {
             <Route exact path={"/"} component={Root} />
             <Route exact path={"/home"} component={Home} />
             <Route exact path={"/certificate"} component={Certificate} />
+            <Route exact path={"/technologies"} component={Technologies} />
             <Route component={NoMatch} />
           </Switch>
         </MainLayout>

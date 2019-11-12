@@ -4,8 +4,7 @@ import certificate_img from '../img/certificate_kodilla2019.jpg'
 export class Certificate extends React.Component {
   render() {
     return <div  class=" col-8 example">
-    <img src={certificate_img} alt="certificate" class="certificate" />
+    <img src={certificate_img} alt="certificate" class=" mycertificate1" />
     </div>
-    
   }
 }

@@ -25,7 +25,14 @@ export const Header = props => {
               <a class="linkedin" href="https://www.linkedin.com/in/martin-hartman-60a0b3189/" title="My Linkedin" target="_blank"><i class="fab fa-linkedin"></i>Linkedin</a>
             </div>
             <div class="location">
-              <a class="linkedin" href="https://www.linkedin.com/in/martin-hartman-60a0b3189/" title="My Linkedin" target="_blank"><i class="fab fa-github-square"></i>GitHub</a>
+              <a class="linkedin " href="https://www.linkedin.com/in/martin-hartman-60a0b3189/" title="My Linkedin" target="_blank"><i class="fab fa-github-square"></i>GitHub</a>
+            </div>
+            <div class="location git">
+              <a class="linkedin">Email:</a><br></br>
+              <a class="email" href="mailto:webmaster@example.com">hartmanx1@wp.pl</a>
+              <a class="cv" href="CV/CV.pdf" download="Martin_Hartman_CV.pdf">
+                        <p class="button">Download CV</p>
+                    </a>
             </div>
           </div>
 
@@ -39,6 +46,9 @@ export const Header = props => {
         </NavLink>
           <NavLink exact to="/certificate" activeClassName="active">
             MY CERTIFICATE
+        </NavLink>
+          <NavLink exact to="/technologies" activeClassName="active">
+            TECHNOLOGIES
         </NavLink>
         </div>
       </nav>
