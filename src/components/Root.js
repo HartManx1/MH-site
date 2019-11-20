@@ -37,12 +37,6 @@ export class Root extends React.Component {
             <h2>traveling</h2>
             <p>Traveling allows me to free myself from everyday life and clear my mind.</p>
           </div>
-
-          <div class="service">
-            <i class="far fa-angry"></i>
-            <h2>don't like</h2>
-            <p>I don't like to waste time on unnecessary things</p>
-          </div>
         </div>
       </div>
     </div>

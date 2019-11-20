@@ -24,7 +24,7 @@ export class Home extends React.Component {
               <h2 class="h2_link">Company site</h2>
             </a>
           </div>
-          <div class="discription discription_dis"><h2>Discription:<a> full customizable company site</a></h2></div>
+          <div class="discription discription_dis"><h2>Discription:<a> fully customizable company site</a></h2></div>
           <div class="discription_font"><h2>Technologies:</h2>
             <ul>
               <li>
@@ -49,7 +49,7 @@ export class Home extends React.Component {
           <a class="a_floor" href="https://github.com/HartManx1/MySHOP" target="_blank">
             <h2 class="h2_link">Shop</h2>
           </a>
-          <div class="discription discription_dis"><h2>Discription:<a> shop with chart funcionality and PayPal api</a></h2></div>
+          <div class="discription discription_dis"><h2>Discription:<a> shop with cart funcionality and PayPal api</a></h2></div>
           <div class="discription_font"><h2>Technologies:</h2>
             <ul>
               <li>

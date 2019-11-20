@@ -6,7 +6,7 @@ import { Root } from "../Root";
 
 import "./header.css";
 import "./left_user.css";
-import avatar from '../../img/avatar.jpg'
+import avatar from '../../img/mh-oficiall.png'
 
 
 export const Header = props => {
@@ -25,7 +25,7 @@ export const Header = props => {
               <a class="linkedin" href="https://www.linkedin.com/in/martin-hartman-60a0b3189/" title="My Linkedin" target="_blank"><i class="fab fa-linkedin"></i>Linkedin</a>
             </div>
             <div class="location">
-              <a class="linkedin " href="https://www.linkedin.com/in/martin-hartman-60a0b3189/" title="My Linkedin" target="_blank"><i class="fab fa-github-square"></i>GitHub</a>
+              <a class="linkedin " href="https://github.com/HartManx1?tab=repositories" title="My Linkedin" target="_blank"><i class="fab fa-github-square"></i>GitHub</a>
             </div>
             <div class="location git">
               <a class="linkedin">Email:</a><br></br>

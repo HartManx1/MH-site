@@ -12,7 +12,6 @@ h1 {
 .avatar {
     background-size: cover;
     width: 35%;
-    border-radius: 50%;
 }
 
 .location {
@@ -40,7 +39,7 @@ h1 {
 }
 
 .git {
-    margin-top: 20px;
+    margin-top: 40px;
     width: 100%;
 }
 
