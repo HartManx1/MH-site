@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74760a7bdf63e5856b9c311040f4ed64",
+    "revision": "f3a4832d5f2286378d77d3ad90c2d75f",
     "url": "/MH-site/index.html"
   },
   {
-    "revision": "7513e92c6578df1bfdbd",
+    "revision": "e6d2c8fd98717a9360bc",
     "url": "/MH-site/static/css/main.b5b9abeb.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MH-site/static/js/2.a0705523.chunk.js"
   },
   {
-    "revision": "7513e92c6578df1bfdbd",
-    "url": "/MH-site/static/js/main.e401f1df.chunk.js"
+    "revision": "e6d2c8fd98717a9360bc",
+    "url": "/MH-site/static/js/main.93eda388.chunk.js"
   },
   {
     "revision": "a5002e78caa60e48bbf9",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MH-site/static/media/bootstrap.eaed0693.png"
   },
   {
-    "revision": "30bd974d76d0cff33d365f34422dc309",
-    "url": "/MH-site/static/media/certificate_kodilla2019.30bd974d.jpg"
+    "revision": "bf247635d369546c02359373829fae5f",
+    "url": "/MH-site/static/media/certificate_kodilla2019.bf247635.jpg"
   },
   {
     "revision": "098497aefeba9ec618aed2ad93d58603",
