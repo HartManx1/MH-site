@@ -7,6 +7,7 @@ import { Root } from "../Root";
 import "./header.css";
 import "./left_user.css";
 import avatar from '../../img/mh-oficiall.png'
+//import CV from '../../CV/Martin_HartmanCV.pdf'
 
 
 export const Header = props => {
@@ -29,10 +30,11 @@ export const Header = props => {
             </div>
             <div class="location git">
               <a class="linkedin">Email:</a><br></br>
-              <a class="email" href="mailto:webmaster@example.com">hartmanx1@wp.pl</a>
-              <a class="cv" href="CV/CV.pdf" download="Martin_Hartman_CV.pdf">
+              <a class="email" href="mailto:hartmanx1@wp.pl">hartmanx1@wp.pl</a>
+              <a class="cv"  href="https://www.canva.com/design/DADrNds5Cfw/-bpuqNEHxV6i43x4gNGfCw/view?utm_content=DADrNds5Cfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target= "_blank">
                         <p class="button">Download CV</p>
                     </a>
+                    
             </div>
           </div>
 

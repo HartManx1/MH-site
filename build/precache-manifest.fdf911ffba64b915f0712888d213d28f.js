@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acdc115e054db744c1a6b4030c52e015",
+    "revision": "74760a7bdf63e5856b9c311040f4ed64",
     "url": "/MH-site/index.html"
   },
   {
-    "revision": "899ee782ae946f38d55f",
-    "url": "/MH-site/static/css/main.672f0bf9.chunk.css"
+    "revision": "7513e92c6578df1bfdbd",
+    "url": "/MH-site/static/css/main.b5b9abeb.chunk.css"
   },
   {
     "revision": "8a2e231211249c821f32",
     "url": "/MH-site/static/js/2.a0705523.chunk.js"
   },
   {
-    "revision": "899ee782ae946f38d55f",
-    "url": "/MH-site/static/js/main.35550178.chunk.js"
+    "revision": "7513e92c6578df1bfdbd",
+    "url": "/MH-site/static/js/main.e401f1df.chunk.js"
   },
   {
     "revision": "a5002e78caa60e48bbf9",
@@ -36,10 +36,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MH-site/static/media/SASS.2da9a47a.png"
   },
   {
-    "revision": "8e1973512cf65cb9f218b951f777bae1",
-    "url": "/MH-site/static/media/avatar.8e197351.jpg"
-  },
-  {
     "revision": "eaed069318589c68960c11cffdec4ab9",
     "url": "/MH-site/static/media/bootstrap.eaed0693.png"
   },
@@ -50,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "098497aefeba9ec618aed2ad93d58603",
     "url": "/MH-site/static/media/jQuery.098497ae.jpg"
+  },
+  {
+    "revision": "c1896c49e8977625e3226b6732506ebe",
+    "url": "/MH-site/static/media/mh-oficiall.c1896c49.png"
   },
   {
     "revision": "381cfb13e9421fc3af95d08db44109b7",
