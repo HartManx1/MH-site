@@ -6,16 +6,15 @@ import { Root } from "../Root";
 
 import "./header.css";
 import "./left_user.css";
+import "../RWD.css";
 import avatar from '../../img/mh-oficiall.png'
-//import CV from '../../CV/Martin_HartmanCV.pdf'
-
 
 export const Header = props => {
   return (
 
     <div class="row">
       <nav>
-        <div class="col-3 example example1">
+        <div class="col-3 col-m-12 example example1">
           <img src={avatar} alt="avatar image" class="avatar" />
           <h1>Martin Hartman</h1>
           <a class="web_dev">Junior Web Developer</a>
@@ -29,17 +28,17 @@ export const Header = props => {
               <a class="linkedin " href="https://github.com/HartManx1?tab=repositories" title="My Linkedin" target="_blank"><i class="fab fa-github-square"></i>GitHub</a>
             </div>
             <div class="location git">
-              <a class="linkedin">Email:</a><br></br>
+
               <a class="email" href="mailto:hartmanx1@wp.pl">hartmanx1@wp.pl</a>
-              <a class="cv"  href="https://www.canva.com/design/DADrNds5Cfw/-bpuqNEHxV6i43x4gNGfCw/view?utm_content=DADrNds5Cfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target= "_blank">
-                        <p class="button">Download CV</p>
-                    </a>
-                    
+              <a class="cv" href="https://www.canva.com/design/DADrNds5Cfw/-bpuqNEHxV6i43x4gNGfCw/view?utm_content=DADrNds5Cfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+                <p class="button">Download CV</p>
+              </a>
+
             </div>
           </div>
 
         </div>
-        <div class="col-8 example example2">
+        <div class="col-8 col-m-12 example_rwd example example2">
           <NavLink exact to="/" activeClassName="active">
             ABOUT ME
         </NavLink>
@@ -47,7 +46,7 @@ export const Header = props => {
             PORTFOLIO
         </NavLink>
           <NavLink exact to="/certificate" activeClassName="active">
-            MY CERTIFICATE
+            CERTIFICATE
         </NavLink>
           <NavLink exact to="/technologies" activeClassName="active">
             TECHNOLOGIES

@@ -1,0 +1,20 @@
+@media (max-width: 1200px) {
+  .col-m-12 {
+    width: 100%;
+  }
+
+  .example_rwd {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-bottom: 3px;
+  }
+
+  .text_project_rwd {
+    width: 100%;
+  }
+
+  .container_rwd {
+    margin: 5px;
+  }
+}

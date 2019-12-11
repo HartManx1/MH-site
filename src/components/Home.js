@@ -10,22 +10,25 @@ import project6 from '../img/project6.PNG'
 
 export class Home extends React.Component {
   render() {
-    return <div class=" col-8 example ">
+    return <div class="col-8 col-m-12 example">
       <div class="row ">
-        <div class="col-8 portfolio">
-          <a href="https://project-118403.kodilla.com/" target="_blank">
+        <div class="col-8 col-m-12 portfolio portfolio_marg">
+          <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
             <img src={project1} alt="company site" class="certificate project_img" />
           </a>
         </div>
-        <div class="col-4 ">
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <div class="discription_color">
             <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
               <h2 class="h2_link">Company site</h2>
             </a>
           </div>
-          <div class="discription discription_dis"><h2>Discription:<a> fully customizable company site</a></h2></div>
-          <div class="discription_font"><h2>Technologies:</h2>
+          <div class="discription discription_dis">
+            <h2>Discription: fully customizable company site</h2>
+          </div>
+          <div class="discription_font ">
+            <h2>Technologies:</h2>
             <ul>
               <li>
                 <a>HTML</a>
@@ -39,12 +42,12 @@ export class Home extends React.Component {
             </ul>
           </div>
         </div>
-        <div class="col-8 portfolio portfolio_marg ">
+        <div class="col-8 col-m-12 portfolio portfolio_marg ">
           <a class="a_floor" href="https://github.com/HartManx1/MySHOP" target="_blank">
             <img src={project5} alt="shop" class="certificate project_img" />
           </a>
         </div>
-        <div class="col-4 discription_marg ">
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <a class="a_floor" href="https://github.com/HartManx1/MySHOP" target="_blank">
             <h2 class="h2_link">Shop</h2>
@@ -67,12 +70,12 @@ export class Home extends React.Component {
             </ul>
           </div>
         </div>
-        <div class="col-8 portfolio portfolio_marg ">
+        <div class="col-8 col-m-12 portfolio portfolio_marg ">
           <a class="a_floor" href="https://hartmanx1.github.io/zadanie-15.6/" target="_blank">
             <img src={project2} alt="kanban" class="certificate project_img" />
           </a>
         </div>
-        <div class="col-4 discription_marg ">
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <a class="a_floor" href="https://hartmanx1.github.io/zadanie-15.6/" target="_blank">
             <h2 class="h2_link">Kanban board</h2>
@@ -92,12 +95,12 @@ export class Home extends React.Component {
             </ul>
           </div>
         </div>
-        <div class="col-8 portfolio portfolio_marg ">
+        <div class="col-8 col-m-12 portfolio portfolio_marg ">
           <a class="a_floor" href="https://hartmanx1.github.io/soloend/" target="_blank">
             <img src={project3} alt="chart site" class="certificate project_img" />
           </a>
         </div>
-        <div class="col-4 discription_marg ">
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <a class="a_floor" href="https://hartmanx1.github.io/soloend/" target="_blank">
             <h2 class="h2_link">Administriting panel</h2>
@@ -120,12 +123,12 @@ export class Home extends React.Component {
             </ul>
           </div>
         </div>
-        <div class="col-8 portfolio portfolio_marg ">
+        <div class="col-8 col-m-12 portfolio portfolio_marg ">
           <a class="a_floor" href="https://hartmanx1.github.io/13.3-Rock-Papper-Scissors/" target="_blank">
             <img src={project4} alt="game" class="certificate project_img" />
           </a>
         </div>
-        <div class="col-4 discription_marg ">
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <a class="a_floor" href="https://hartmanx1.github.io/13.3-Rock-Papper-Scissors/" target="_blank">
             <h2 class="h2_link">Rock Paper Scissors game</h2>
@@ -145,13 +148,13 @@ export class Home extends React.Component {
             </ul>
           </div>
         </div>
-        
-        <div class="col-8 portfolio portfolio_marg ">
+
+        <div class="col-8 col-m-12 portfolio portfolio_marg ">
           <a class="a_floor" href="https://github.com/HartManx1/MySHOP" target="_blank">
             <img src={project6} alt="mysite" class="certificate project_img" />
           </a>
         </div>
-        <div class="col-4 discription_marg ">
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <a class="a_floor" href="https://hartmanx1.github.io/MH-site/" target="_blank">
             <h2 class="h2_link">My site</h2>
@@ -175,12 +178,6 @@ export class Home extends React.Component {
           </div>
         </div>
       </div>
-
-
-
     </div>
-
-
-
   }
 }
