@@ -15,10 +15,10 @@ class App extends React.Component {
       <BrowserRouter>
         <MainLayout>
           <Switch>
-            <Route exact path={"/"} component={Root} />
-            <Route exact path={"/home"} component={Home} />
-            <Route exact path={"/certificate"} component={Certificate} />
-            <Route exact path={"/technologies"} component={Technologies} />
+            <Route exact path={"/MH-site"} component={Root} />
+            <Route exact path={"/MH-site/home"} component={Home} />
+            <Route exact path={"/MH-site/certificate"} component={Certificate} />
+            <Route exact path={"/MH-site/technologies"} component={Technologies} />
             <Route component={NoMatch} />
           </Switch>
         </MainLayout>
