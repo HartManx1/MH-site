@@ -174,6 +174,9 @@ export class Home extends React.Component {
               <li>
                 <a>React</a>
               </li>
+              <li>
+                <a>+ Mobile compability</a>
+              </li>
             </ul>
           </div>
         </div>

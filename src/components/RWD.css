@@ -1,4 +1,4 @@
-@media (max-width: 1200px) {
+@media (max-width: 1322px) {
   .col-m-12 {
     width: 100%;
   }
@@ -16,5 +16,10 @@
 
   .container_rwd {
     margin: 5px;
+  }
+
+  .active {
+    border-top: solid rgba(0, 212, 255, 1) 2px;
+    border-bottom: solid rgba(21, 130, 196, 1) 2px;
   }
 }

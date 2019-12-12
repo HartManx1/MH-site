@@ -12,6 +12,7 @@ body {
     rgba(21, 130, 196, 1) 30%,
     rgba(0, 212, 255, 1) 71%
   );
+  isolation: isolate;
 }
 
 .container {
@@ -19,7 +20,7 @@ body {
 }
 
 nav a {
-  padding: 20px;
+  padding: 15px;
   text-decoration: none;
   color: black;
   font-size: 22px;
@@ -40,6 +41,12 @@ nav a {
 .certificate {
 	width: 100%;
 }
+
+.active {
+  border-left: solid rgba(0, 212, 255, 1) 2px;
+  border-right: solid rgba(21, 130, 196, 1) 2px;
+}
+
 
 
 .row {
