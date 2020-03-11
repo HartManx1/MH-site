@@ -14,14 +14,14 @@ export class Home extends React.Component {
     return <div class="col-8 col-m-12 example">
       <div class="row ">
       <div class="col-8 col-m-12 portfolio portfolio_marg">
-          <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
+          <a class="a_floor" href="https://hartmanx1.github.io/MarleDiPawele/" target="_blank">
             <img src={project7} alt="company site" class="certificate project_img" />
           </a>
         </div>
         <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <div class="discription_color">
-            <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
+            <a class="a_floor" href="https://hartmanx1.github.io/MarleDiPawele/" target="_blank">
               <h2 class="h2_link">The Dog Barber</h2>
             </a>
           </div>
