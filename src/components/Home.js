@@ -7,25 +7,26 @@ import project3 from '../img/project3.PNG'
 import project4 from '../img/project4.PNG'
 import project5 from '../img/project5.PNG'
 import project6 from '../img/project6.PNG'
+import project7 from '../img/project7.PNG'
 
 export class Home extends React.Component {
   render() {
     return <div class="col-8 col-m-12 example">
       <div class="row ">
-        <div class="col-8 col-m-12 portfolio portfolio_marg">
+      <div class="col-8 col-m-12 portfolio portfolio_marg">
           <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
-            <img src={project1} alt="company site" class="certificate project_img" />
+            <img src={project7} alt="company site" class="certificate project_img" />
           </a>
         </div>
         <div class="col-4 col-m-12 example_rwd portfolio_marg">
           <div class="discription_font"><h2>Name of project:</h2></div>
           <div class="discription_color">
             <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
-              <h2 class="h2_link">Company site</h2>
+              <h2 class="h2_link">The Dog Barber</h2>
             </a>
           </div>
           <div class="discription discription_dis">
-            <h2>Discription: fully customizable company site</h2>
+            <h2>Discription: Dog barber shop at the customer's request. </h2>
           </div>
           <div class="discription_font ">
             <h2>Technologies:</h2>
@@ -35,9 +36,6 @@ export class Home extends React.Component {
               </li>
               <li>
                 <a>CSS</a>
-              </li>
-              <li>
-                <a>+ Mobile compability</a>
               </li>
             </ul>
           </div>
@@ -66,6 +64,36 @@ export class Home extends React.Component {
               </li>
               <li>
                 <a>React</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-8 col-m-12 portfolio portfolio_marg">
+          <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
+            <img src={project1} alt="company site" class="certificate project_img" />
+          </a>
+        </div>
+        <div class="col-4 col-m-12 example_rwd portfolio_marg">
+          <div class="discription_font"><h2>Name of project:</h2></div>
+          <div class="discription_color">
+            <a class="a_floor" href="https://project-118403.kodilla.com/" target="_blank">
+              <h2 class="h2_link">Company site</h2>
+            </a>
+          </div>
+          <div class="discription discription_dis">
+            <h2>Discription: fully customizable company site</h2>
+          </div>
+          <div class="discription_font ">
+            <h2>Technologies:</h2>
+            <ul>
+              <li>
+                <a>HTML</a>
+              </li>
+              <li>
+                <a>CSS</a>
+              </li>
+              <li>
+                <a>+ Mobile compability</a>
               </li>
             </ul>
           </div>
