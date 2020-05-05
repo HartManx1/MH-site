@@ -8,6 +8,8 @@
     flex-direction: column;
     margin-top: 5px;
     margin-bottom: 3px;
+    border-bottom: solid #1da7c3 4px;
+    border-radius: 9px;
   }
 
   .text_project_rwd {
@@ -21,5 +23,9 @@
   .active {
     border-top: solid rgba(0, 212, 255, 1) 2px;
     border-bottom: solid rgba(21, 130, 196, 1) 2px;
+  }
+
+  ul {
+    padding: 0;
   }
 }
